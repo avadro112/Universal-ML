@@ -1,8 +1,0 @@
-#import numpy as np
-#import pandas as pd
-
-df = df.read_csv('data.csv')
-
-#spliting the data using scikit Learn 
-
-from 

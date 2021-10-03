@@ -1,4 +1,4 @@
-#Note ::: Pls Typo ... GITHUB is new to me 
+#Note ::: Pls Ignore Typo ... GITHUB is new to me 
 #import numpy as np
 #import pandas as pd
 
